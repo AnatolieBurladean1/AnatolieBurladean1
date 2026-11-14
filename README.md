@@ -16,4 +16,4 @@ I like turning raw data into clear answers: SQL for the heavy lifting, Power BI 
 | [Excel Data Analytics](https://github.com/AnatolieBurladean1/Excel_Project_Data_Analytics) | Excel | Salary dashboard with array formulas + Power Pivot / DAX analysis |
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/anatolie-burladean-67080138b) · anatol.burladean@gmail.com
+[LinkedIn](https://www.linkedin.com/in/anatolie-burladean) · anatol.burladean@gmail.com
