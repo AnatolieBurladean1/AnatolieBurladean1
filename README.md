@@ -1,7 +1,7 @@
 # Hi, I'm Anatolie 👋
 
 **Junior Data Analyst** based in Chișinău, Moldova (open to remote).
-IT graduate (Technical University of Moldova, 2026) with 2 years of experience building Excel reports in a remote business-support role.
+IT graduate (Technical University of Moldova, 2026) and certified Data Analyst (IT School), looking for my first Data Analyst or BI role.
 I like turning raw data into clear answers: SQL for the heavy lifting, Power BI and Excel to tell the story.
 
 **Tools:** SQL (PostgreSQL, SQL Server, MySQL) · Power BI (Power Query, DAX, data modeling) · Excel (Power Query, Power Pivot, Pivot Tables) · Python (pandas, NumPy, Matplotlib) · Git
